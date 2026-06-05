@@ -1,52 +1,72 @@
-<h1 align="center">Hi , I'm Matias Torrallardona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Student;University+Programmer+Analyst;Always+learning+new+things"></a>
-</p>
+# Matias Torrallardona
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+**Full-Stack Developer** · React · Node.js · Python · AI Tools
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Estudiante avanzado de Analista Programador (UNLP). Construyo plataformas web SaaS, apps desktop instalables y herramientas de automatización con IA. Abierto a nuevas oportunidades.
 
-<br><br>
+📍 La Plata, Buenos Aires · 📧 torrallardonamatias@gmail.com
 
-- :school: I am a Computer Science student at UNLP.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am expanding my knowledge in both front-end and back-end.
-- :student: I’m currently learning `CSS` and `JavaScript`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-<br>
+---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:torrallardonamatias@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/TorraMati"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/matias-torrallardona-8592b3228/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/matias.torrallardona"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/torramati/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+## 🛠️ Tech Stack
 
-## 🛠️ My Skills
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<p align="center"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-</p>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Base de datos & Herramientas**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+### [Consorcio SaaS](https://github.com/TorraMati/consorcio-saas)
+Plataforma web full-stack para gestión de consorcios residenciales.
+- Auth JWT con control de roles · Pagos con MercadoPago · Notificaciones por email
+- Tareas programadas (node-cron) para liquidaciones automáticas
+- **Stack:** React · Node.js/Express · MySQL · Sequelize · Nodemailer
+
+### [Gimnasio Admin](https://github.com/TorraMati/kit-gimnasio-admin)
+App desktop instalable (Windows/Mac/Linux) para administración completa de gimnasios.
+- Dashboard financiero con gráficos · Gestión de alumnos y control de cuotas
+- Datos 100% locales, sin servidor
+- **Stack:** Electron · React · SQLite · Tailwind CSS · Recharts
+
+### [CyberSuite](https://github.com/TorraMati/kit-cybersec-platform-builder)
+Plataforma de ciberseguridad con roles diferenciados (admin / analyst / viewer).
+- Auth JWT · Planes free/pro/team · Frontend Next.js + Backend FastAPI
+- **Stack:** Next.js · Python FastAPI · SQLite
+
+### [CV ATS Builder](https://github.com/TorraMati/cv-ats-builder)
+Herramienta de IA que analiza CVs en PDF, detecta problemas de compatibilidad ATS y genera un nuevo CV optimizado.
+- **Stack:** Python · pdfplumber · reportlab · Claude AI
+
+### [DistribuidoraDeAvila](https://github.com/TorraMati/DistribuidoraDeAvila)
+Sistema de gestión para una distribuidora real — stock, precios, caja.
+- **Stack:** JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![TorraMati's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorraMati&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-torrallardona)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:torrallardonamatias@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TorraMati)
